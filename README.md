@@ -1,14 +1,27 @@
 ## Olá! Eu sou o Fabiano Arcanjo, Gerente de TIC da Protectsat Rastreamento
 
-##
-
 - 🔭 Trabalho com CFTV, Desenvolvimento, ERP, Infraestrutura Linux/Windows, Mobile, Segurança, Sistemas e Telefonia.
 - 🌱 Estudando Business Intelligence, Data Analytics, Data Engineering e Data Science.
 - 👯 Sou apaixonado pelo universo da tecnologia e um profundo admirador da cultura do software livre.
-##
 
-<div align="center">
-  <a href="https://github.com/fcarcanjo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcarcanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcarcanjo&layout=compact&langs_count=7&theme=dracula"/>
+---
+
+### Ferramentas e Tecnologias que mais uso:
+
+<div>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+</div>
+
+---
+
+### Contatos
+
+<div>
+  <a href = "mailto:fcarcanjo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/fabiano-arcanjo-97372697/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
