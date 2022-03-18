@@ -3,7 +3,7 @@
 - 🔭 CFTV, Desenvolvimento, ERP, Infraestrutura Linux/Windows, Mobile, Segurança, Sistemas e Telefonia.
 - 🌱 Business Intelligence, Data Analytics, Data Engineering e Data Science.
 - 👯 Apaixonado pelo universo da tecnologia e um profundo admirador da cultura do software livre.
-- ⚡ Filmes, livros e séries.
+- ⚡ Filmes / Livros / Séries.
 
 ---
 
