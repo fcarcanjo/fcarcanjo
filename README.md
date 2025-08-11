@@ -1,7 +1,7 @@
 ## Olá, pessoal ... Eu sou o Fabiano Arcanjo!
 
 - 👨🏽‍💻 CFTV, Desenvolvimento, ERP, Infraestrutura Linux/Windows, Mobile, Segurança, Sistemas e Telefonia.
-- 🎲 Análise de Dados, Análise de Negócios, Engenharia de Dados e Inteligência de Negócios.
+- 🎲 Dados, Processamento, Informações, Conhecimento, Inteligência e Negócios.
 - 🌱 Planejamento, Análise de Viabilidade, Análise de Requisitos, Projeto, Desenvolvimento, Testes, Implementação e Manutenção.
 - 🐧 Apaixonado por Tecnologia e um profundo admirador da cultura do Software Livre.
 - 🎯 Tecnologias, Livros, Músicas, Filmes e Séries.
